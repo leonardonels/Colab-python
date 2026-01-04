@@ -75,3 +75,6 @@ This repository contains notebooks and resources for the Data Science course. It
 ### XAI (Explainable AI)
 - [LIME Iris](XAI/lime_iris.ipynb): **LIME with tabular data**. Covers using LIME to explain model predictions on the Iris dataset.
 - [LIME Spam](XAI/lime_spam.ipynb)
+
+### General Resources
+- [Nuovo Testamento](Nuovo_Testamento.ipynb): **Summary of Useful Techniques**. A compilation of the most useful code snippets and examples for data loading, cleaning, visualization, preprocessing, model training, evaluation, pipelines, and grid search.
